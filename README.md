@@ -18,3 +18,5 @@ This project devoloped by :
 Ahmet Melih Kara
 Muhammet Ali AĞDAŞ
 Can ARI
+
+This project is licensed under the MIT License - see the LICENSE file for details.
