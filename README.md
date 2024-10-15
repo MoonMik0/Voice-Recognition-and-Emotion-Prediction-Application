@@ -12,3 +12,9 @@ Real-time voice recognition
 Emotion analysis from voice tones
 Interactive interface for speaker identification
 Post-recording report with transcription and emotion distribution
+
+This project devoloped by :
+Özlem ELMALI
+Ahmet Melih Kara
+Muhammet Ali AĞDAŞ
+Can ARI
