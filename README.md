@@ -17,6 +17,6 @@ This project devoloped by :
 Özlem ELMALI
 Ahmet Melih Kara
 Muhammet Ali AĞDAŞ
-Can ARI
+Can ARI(https://github.com/can645ari)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
