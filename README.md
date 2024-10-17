@@ -105,3 +105,9 @@ The interface has two buttons:
 Additional Notes:
 - Make sure your microphone is properly configured and has sufficient input quality for best results.
 - You can expand the project by training on more speakers or adding more emotional states for emotion detection.
+
+This project developed by:
+- Özlem ELMALI
+- Muhammet Ali AĞDAŞ
+- Ahmet Melih KARA
+- Can ARI
