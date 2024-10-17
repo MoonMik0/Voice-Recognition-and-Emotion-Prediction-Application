@@ -34,7 +34,7 @@ This project enables real-time voice recognition and emotion analysis using mach
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo/voice-recognition-emotion-analysis.git
+git clone https://github.com/MoonMik0/Voice-Recognition-and-Emotion-Prediction-Application.git
 cd voice-recognition-emotion-analysis
 ```
 
